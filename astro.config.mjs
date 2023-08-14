@@ -14,6 +14,11 @@ export default defineConfig({
           label: '新手指南',
           items: [
             // Each item here is one entry in the navigation menu.
+            {
+              label: 'Aethir简介：为云基础架构的未来赋能',
+              link: '/guides/introducing-aethir-empowering-the-future-of-cloud'
+            },
+            { label: '什么是云游戏？', link: '/guides/what-is-cloud-gaming' },
             { label: '什么是Aethir', link: '/guides/what-is-aethir' },
             { label: '埃瑟尔的进度更新#1', link: '/guides/progress-update-1' },
             {
